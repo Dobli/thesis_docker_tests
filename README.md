@@ -1,1 +1,1 @@
-# thesis_docker_tests
+# Files to test docker environments for my thesis
